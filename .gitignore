@@ -1,0 +1,40 @@
+# Dependencies
+node_modules/
+package-lock.json
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# IDE / Editor
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Test results & reports
+allure-results/
+allure-report/
+mochawesome-report/
+test-results/
+reports/
+screenshots/
+
+# APK / IPA files (optional — uncomment if you don't want to track app binaries)
+# *.apk
+# *.ipa
+
+# Environment variables
+.env
+.env.*
+
+# Misc
+.cache/
+tmp/

@@ -1,0 +1,25 @@
+{
+  "name": "mohsin-appium-mobile-framework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha tests/**/*.spec.js --timeout 60000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MdMohsin1985/mohsin-appium-mobile-framework.git"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/MdMohsin1985/mohsin-appium-mobile-framework/issues"
+  },
+  "homepage": "https://github.com/MdMohsin1985/mohsin-appium-mobile-framework#readme",
+  "dependencies": {
+    "webdriverio": "^10.1.0"
+  },
+  "devDependencies": {
+    "mocha": "^12.0.3"
+  }
+}
